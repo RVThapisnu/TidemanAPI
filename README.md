@@ -1,5 +1,6 @@
 # Tideman API
-This is an REST API for Tideman Voting System implemented in Spring Boot Java
+This is an REST API for Tideman Voting System implemented in Spring Boot Java  
+To Learn More [Tideman-Java](https://github.com/RVThapisnu/tidemanmethod-java) 
 # Description
 ### 1.Endpoints are defined in Controller Folder.  
 ### 2.Spring Boot JPA is configured to create and delete tables on start.  
